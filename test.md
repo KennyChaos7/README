@@ -1,6 +1,5 @@
-## 目录
-* [EN](#EN)
-* [CN](#CN)
+* [EN](#en)
+* [CN](#cn)
 
 ### EN
 #### StrangeFrame
